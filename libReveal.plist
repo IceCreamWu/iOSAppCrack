@@ -1,18 +1,7 @@
 {
 	Filter = {
 		Bundles = (
-			"com.netease.mint",
-			"com.apple.AppStore",
-			"com.netease.news",
-			"com.uc.ucnews",
-			"tv.danmaku.bilianime",
-			"com.ucweb.iphone.lowversion",
-			"com.meelive.ingkee",
-			"com.yy.kiwi",
-			"com.tencent.xin",
-			"com.netease.cbg",
-			"io.manong.DeveloperDaily",
-			"com.jianshu.Hugo",
+			"com.apple.UIKit",
 		);
 	};
 }
